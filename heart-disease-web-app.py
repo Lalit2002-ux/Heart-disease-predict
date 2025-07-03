@@ -129,7 +129,7 @@ Key Input Values:
 - Avoid smoking, alcohol, and stress.
 - Monitor BP, cholesterol, sugar regularly.
 
-⚠️ Disclaimer: This result is based on a machine learning model and is not a medical diagnosis. Always consult a licensed doctor.
+
 """
         st.error("🩺 **Prediction: High Risk of Heart Disease Detected**")
         return report
