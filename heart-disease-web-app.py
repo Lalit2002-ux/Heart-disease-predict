@@ -13,7 +13,7 @@ import io
 import plotly.graph_objects as go
 
 # Load the saved model
-Loaded_model = pickle.load(open('L:/logistic ml/logistic_model.sav', 'rb'))
+Loaded_model = pickle.load(open('logistic_model.sav', 'rb'))
 
 
 # Sidebar Info
